@@ -1,0 +1,557 @@
+@import url('https://fonts.googleapis.com/css?family=Solway|Sulphur+Point|Abril+Fatface|Lobster|Modak|Montserrat+Subrayada|Permanent+Marker|Press+Start+2P|Righteous&display=swap');
+/*
+font-family: 'Monoton', cursive;
+font-family: 'Solway', serif;
+font-family: 'Sulphur Point', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Modak', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Montserrat Subrayada', sans-serif;*/
+/*Html Styles*/
+html {
+    background-color:black;
+}
+/*Unit 8*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon8 {
+    vertical-align:center;
+    color:rgba(251, 141, 255, 0.959);
+    text-shadow: 0px 0px 25px #d400ff;
+    font-weight: -1px;
+}
+
+.neon8:after {
+    content: '';
+    z-index:-1;
+    color:#d400ff;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon8:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#d400ff6e;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl8 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#d400ff;
+    border: 3px solid rgba(251, 141, 255, 0.959);
+}
+
+dl .div8 {
+    display:table-row;
+}
+
+.dt8,.dd8 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt8 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(251, 141, 255, 0.959);
+    color:#d400ff;
+    border-bottom:2px solid #d400ff;
+    border-top:2px solid #d400ff;
+    font-family: 'Lobster', cursive;
+}
+
+.dd8 {
+    font-size:25px;
+    color:rgba(251, 141, 255, 0.959);
+    border-bottom:2px solid rgba(251, 141, 255, 0.959);
+    border-top:2px solid rgba(251, 141, 255, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Unit 7*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon7 {
+    vertical-align:center;
+    color:rgba(169, 231, 255, 0.959);
+    text-shadow: 0px 0px 25px #008cff;
+    font-weight: -1px;
+}
+
+.neon7:after {
+    content: '';
+    z-index:-1;
+    color:#008cff;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon7:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    top:2360px;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#008cff5e;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl7 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#008cff;
+    border: 3px solid rgba(169, 231, 255, 0.959);
+}
+
+dl .div7 {
+    display:table-row;
+}
+
+.dt7,.dd7 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt7 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(169, 231, 255, 0.959);
+    color:#008cff;
+    border-bottom:2px solid #008cff;
+    border-top:2px solid #008cff;
+    font-family: 'Lobster', cursive;
+}
+
+.dd7 {
+    font-size:25px;
+    color:rgba(169, 231, 255, 0.959);
+    border-bottom:2px solid rgba(169, 231, 255, 0.959);
+    border-top:2px solid rgba(169, 231, 255, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Unit 6*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon6 {
+    vertical-align:center;
+    color:rgba(210, 255, 138, 0.959);
+    text-shadow: 0px 0px 25px #40e200;
+    font-weight: -1px;
+}
+
+.neon6:after {
+    content: '';
+    z-index:-1;
+    color:#40e200;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon6:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    top:4050px;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#48ff004b;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl6 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#40e200;
+    border: 3px solid rgba(210, 255, 138, 0.959);
+}
+
+dl .div6 {
+    display:table-row;
+}
+
+.dt6,.dd6 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt6 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(210, 255, 138, 0.959);
+    color:#40e200;
+    border-bottom:2px solid #40e200;
+    border-top:2px solid #40e200;
+    font-family: 'Lobster', cursive;
+}
+
+.dd6 {
+    font-size:25px;
+    color:rgba(210, 255, 138, 0.959);
+    border-bottom:2px solid rgba(210, 255, 138, 0.959);
+    border-top:2px solid rgba(210, 255, 138, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Unit 5*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon5 {
+    vertical-align:center;
+    color:rgba(255, 253, 138, 0.959);
+    text-shadow: 0px 0px 25px #f5dd04;
+    font-weight: -1px;
+}
+
+.neon5:after {
+    content: '';
+    z-index:-1;
+    color:#f5dd04;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon5:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    top:6300px;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#f5dd044f;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl5 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#f5dd04;
+    border: 3px solid rgba(255, 253, 138, 0.959);
+}
+
+dl .div5 {
+    display:table-row;
+}
+
+.dt5,.dd5 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt5 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(255, 253, 138, 0.959);
+    color:#f5dd04;
+    border-bottom:2px solid #f5dd04;
+    border-top:2px solid #f5dd04;
+    font-family: 'Lobster', cursive;
+}
+
+.dd5 {
+    font-size:25px;
+    color:rgba(255, 253, 138, 0.959);
+    border-bottom:2px solid rgba(255, 253, 138, 0.959);
+    border-top:2px solid rgba(255, 253, 138, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Unit 2*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon4 {
+    vertical-align:center;
+    color:rgba(255, 220, 138, 0.959);
+    text-shadow: 0px 0px 25px #f59904;
+    font-weight: -1px;
+}
+
+.neon4:after {
+    content: '';
+    z-index:-1;
+    color:#f59904;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon4:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    top:9890px;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#f599046b;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl4 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#f59904;
+    border: 3px solid rgba(255, 220, 138, 0.959);
+}
+
+dl .div4 {
+    display:table-row;
+}
+
+.dt4,.dd4 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt4 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(255, 220, 138, 0.959);
+    color:#f59904;
+    border-bottom:2px solid #f59904;
+    border-top:2px solid #f59904;
+    font-family: 'Lobster', cursive;
+}
+
+.dd4 {
+    font-size:25px;
+    color:rgba(255, 220, 138, 0.959);
+    border-bottom:2px solid rgba(255, 220, 138, 0.959);
+    border-top:2px solid rgba(255, 220, 138, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Unit 2*/
+
+/*Header Styles*/
+
+h1 {
+    text-align:center;
+    font-size:86px;
+    color:rgb(255, 255, 255);
+    font-family: 'Press Start 2P', cursive;
+    z-index: 2;
+}
+
+.neon2 {
+    vertical-align:center;
+    color:rgba(255, 138, 138, 0.959);
+    text-shadow: 0px 0px 25px #f50404;
+    font-weight: -1px;
+}
+
+.neon2:after {
+    content: '';
+    z-index:-1;
+    color:#f50404;
+    filter: blur(15px);
+    vertical-align:center
+}
+
+.neon2:before {
+    content: '';
+    margin:auto;
+    padding:0px;
+    position:absolute;
+    top:12900px;
+    left:2%;
+    width:95%;
+    height:20%;
+    background-color:#f5040459;
+    z-index: -2;
+    filter: blur(40px);
+}
+
+/*DL Styles*/
+.dl2 {
+    display: table;
+    border-collapse: collapse;
+    width:900px;
+    margin:auto;
+    padding:0px;
+    background-color:#f50404;
+    border: 3px solid rgba(255, 138, 138, 0.959);
+}
+
+dl .div2 {
+    display:table-row;
+}
+
+.dt2,.dd2 {
+    display:table-cell;
+    padding:10px;
+    vertical-align:middle;
+}
+
+.dt2 {
+    font-size:50px;
+    word-spacing: 10px;
+    letter-spacing:.5px;
+    font-style:bold;
+    background-color:rgba(255, 138, 138, 0.959);
+    color:#f50404;
+    border-bottom:2px solid #f50404;
+    border-top:2px solid #f50404;
+    font-family: 'Lobster', cursive;
+}
+
+.dd2 {
+    font-size:25px;
+    color:rgba(255, 138, 138, 0.959);
+    border-bottom:2px solid rgba(255, 138, 138, 0.959);
+    border-top:2px solid rgba(255, 138, 138, 0.959);
+    font-family: 'Sulphur Point', sans-serif;
+    
+}
+
+/*Table Styles*/
+
+/*Unit 8 Attributes*/
+
+table {
+    margin:auto;
+    padding:0px 0px 0px 0px;
+    width:75%;
+    height:50%;
+    box-shadow: 10px 0px 100px rgba(0, 41, 58, 0.335);
+}
+
+.container {
+    background-color:white;
+    position:absolute;
+    top:21500px;
+    width:99.5%;
+    height:180%;
+}
+
+th.h1 {
+    color:rgb(87, 193, 255);
+    font-size:86px;
+    font-family: 'Abril Fatface', cursive;
+    background-color:rgba(236, 236, 236, 0.658);
+}
+td {
+    color:white;
+    background-color:rgb(170, 225, 255);
+    width:50%;
+    height:auto;
+    font-size:25px;
+    text-align:center;
+    font-family: 'Righteous', cursive;
+}
+
+th {
+    color:white;
+    background-color:rgb(128, 128, 128);
+    width:50%;
+    height:auto;
+    font-size:30px;
+    text-align:center;
+}
